@@ -1,0 +1,22 @@
+[
+    {
+        "statement": "What is color of sky",
+        "choices": {
+            "a": "red",
+            "b": "blue",
+            "c": "green",
+            "d": "black"
+        },
+        "correct": "b"
+    },
+    {
+        "statement": "What is color of sky2",
+        "choices": {
+            "a": "red",
+            "b": "blue",
+            "c": "green",
+            "d": "black"
+        },
+        "correct": "b"
+    }
+]
