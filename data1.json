@@ -1,0 +1,106 @@
+[{
+    "title": "quiz no 1",
+    "questions": [
+      {
+        "statement": "What is color of sky",
+        "choices": [
+          "blue",
+          "red",
+          "green",
+          "yellow"
+        ],
+        "correct": "blue"
+      }
+    ],
+    "time_range": "2023-1-1 12:00:00 +0500..2024-10-11 13:00:00 +0500",
+    "lock": "n",
+    "created_by": "teacher_name"
+  },{
+    "title": "quiz no 2",
+    "questions": [
+      {
+        "statement": "What is color of sky",
+        "choices": [
+          "blue",
+          "red",
+          "green",
+          "yellow"
+        ],
+        "correct": "blue"
+      }
+    ],
+    "time_range": "2023-1-1 12:00:00 +0500..2024-10-11 13:00:00 +0500",
+    "lock": "y",
+    "created_by": "teacher_name"
+  },{
+    "title": "quiz no 3",
+    "questions": [
+      {
+        "statement": "extension used in cpp is",
+        "choices": [
+          ".cpp",
+          ".py",
+          ".rb",
+          ".js"
+        ],
+        "correct": ".cpp"
+      },
+      {
+        "statement": "What is color of water",
+        "choices": [
+          "blue",
+          "red",
+          "no color",
+          "yellow"
+        ],
+        "correct": "no color"
+      }
+    ],
+    "time_range": "2023-1-1 12:00:00 +0500..2024-10-11 13:00:00 +0500",
+    "lock": "y",
+    "created_by": "teacher1"
+  },{
+    "title": "quiz no 4",
+    "questions": [
+      {
+        "statement": "extension used in ruby is",
+        "choices": [
+          ".cpp",
+          ".py",
+          ".rb",
+          ".js"
+        ],
+        "correct": ".js"
+      }
+    ],
+    "time_range": "2022-01-01 09:01:30 +0500..2022-01-01 10:01:00 +0500",
+    "lock": "n",
+    "created_by": "teacher1"
+  },{
+    "title": "Admin Quiz No 1",
+    "questions": [
+      {
+        "statement": "What is 2+2",
+        "choices": [
+          "4",
+          "7",
+          "3",
+          "10"
+        ],
+        "correct": "4"
+      },
+      {
+        "statement": "what is 2X3",
+        "choices": [
+          "2",
+          "4",
+          "6",
+          "none"
+        ],
+        "correct": "6"
+      }
+    ],
+    "time_range": "2023-02-24 08:00:00 +0500..2023-02-24 16:00:00 +0500",
+    "lock": "n",
+    "created_by": "admin"
+  }]

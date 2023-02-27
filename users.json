@@ -1,0 +1,41 @@
+[{
+    "name": "teacher1",
+    "password": "1234",
+    "role": "teacher"
+  },{
+    "name": "teacher2",
+    "password": "1234",
+    "role": "student"
+  },{
+    "name": "teacher33",
+    "password": "1234",
+    "role": "teacher"
+  },{
+    "name": "student",
+    "password": "1234",
+    "role": "student"
+  },{
+    "name": "student1",
+    "password": "1234",
+    "role": "student"
+  },{
+    "name": "student11",
+    "password": "1234",
+    "role": "student"
+  },{
+    "name": "kkkkk",
+    "password": "askjhg",
+    "role": "teacher"
+  },{
+    "name": "student111",
+    "password": "12345",
+    "role": "student"
+  },{
+    "name": "studen1",
+    "password": "12345",
+    "role": "student"
+  },{
+    "name": "admin",
+    "password": "1234",
+    "role": "teacher"
+  }]
